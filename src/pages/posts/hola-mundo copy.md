@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/PostLayout.astro
 pubDate: 2023-12-03
-title: "Mi primera entrada en el blog"
+title: "Mi seg entrada en el blog"
 author: "Pedro Plasencia"
 image:
   url: "/images/post-image.jpg"
